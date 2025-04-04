@@ -282,7 +282,7 @@ cd fullstack-blog-app
 cd blog-server
 npm install
 ```
-Create a `.env` file:
+Create a `.env` file in  inside blog server  :
 ```env
 PORT=5000
 
@@ -323,11 +323,6 @@ Visit: [http://localhost:5173](http://localhost:5173)
 
 Feel free to fork and contribute to this project by submitting a Pull Request.
 
-This project is scalable and ready for features like:
 
-- Rich text editors
-- Drag & drop uploads
-- Admin dashboards
-- User authentication
 
 Happy coding! 🚀
